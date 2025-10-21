@@ -1,8 +1,4 @@
-<!-- ⚡ Futuristic Cyber README for Dor Eli -->
-<p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" alt="matrix" width="100%" />
-</p>
-
+<!-- ⚡ Clean Cyber README for Dor Eli -->
 <h1 align="center">💀 D0rEli · Cyber & Automation Enthusiast 💀</h1>
 
 <p align="center">
